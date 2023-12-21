@@ -59,6 +59,66 @@
       },
       "correctAnswer": "B",
       "explanation": "Mustafa Kemal Atatürk, 1881 yılında Selanik'te doğmuştur. O, Türkiye Cumhuriyeti'nin kurucusu ve ilk cumhurbaşkanıdır."
+    },
+    {
+      "question": "Hangi antik Yunan filozofu, 'Bilgi, güçtür.' ifadesiyle tanınmıştır?",
+      "options": {
+        "A": "Sokrat",
+        "B": "Aristoteles",
+        "C": "Platon",
+        "D": "Herakleitos",
+        "E": "Epikuros"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sokrat, 'Bilgi, güçtür.' ifadesiyle bilinir. Bu ifade, onun bilgi ve bilgelik üzerine vurgu yapan düşüncelerinden biridir."
+    },
+    {
+      "question": "Osmanlı Devleti'nde ilk darbe hangi tarihte gerçekleşmiştir?",
+      "options": {
+        "A": "31 Mart Vakası",
+        "B": "23 Temmuz 1908",
+        "C": "31 Mart 1909",
+        "D": "13 Nisan 1909",
+        "E": "27 Mayıs Darbesi"
+      },
+      "correctAnswer": "A",
+      "explanation": "Osmanlı Devleti'nde ilk darbe, 31 Mart Vakası olarak bilinen olaydır. Bu olay, 13 Nisan 1909 tarihinde gerçekleşmiştir."
+    },
+    {
+      "question": "Türk mitolojisinde hangi kahraman, göğüs kafesine koyduğu kuşlarla ünlüdür?",
+      "options": {
+        "A": "Oğuz Kağan",
+        "B": "Alp Er Tunga",
+        "C": "Manas",
+        "D": "Göktürk Kağanı Bilge Kağan",
+        "E": "Bozkurt"
+      },
+      "correctAnswer": "B",
+      "explanation": "Türk mitolojisinde Alp Er Tunga, göğüs kafesine koyduğu kuşlar ile tanınır. O, Türk destanlarında önemli bir kahramandır."
+    },
+    {
+      "question": "Hangi Osmanlı padişahı, I. Dünya Savaşı'na Osmanlı Devleti'ni sokmuştur?",
+      "options": {
+        "A": "II. Abdülhamid",
+        "B": "II. Mehmed (Vahdettin)",
+        "C": "II. Mustafa (Muaffeddin)",
+        "D": "I. Mehmed",
+        "E": "IV. Murad"
+      },
+      "correctAnswer": "B",
+      "explanation": "Osmanlı padişahı Vahdettin (II. Mehmed), Osmanlı Devleti'ni I. Dünya Savaşı'na sokan padişahtır. Bu olay, 1914 yılında gerçekleşmiştir."
+    },
+    {
+      "question": "Türk-İslam devletlerinden hangisi, Moğol hükümdarı Cengiz Han tarafından kurulmuştur?",
+      "options": {
+        "A": "Safevî Devleti",
+        "B": "Osmanlı Devleti",
+        "C": "Cengizî Hanedanı",
+        "D": "Timur İmparatorluğu",
+        "E": "Babür İmparatorluğu"
+      },
+      "correctAnswer": "E",
+      "explanation": "Moğol hükümdarı Cengiz Han'ın soyundan gelen Babür, Hindistan'da Babür İmparatorluğu'nu kurmuştur. Babür, aynı zamanda Babürname adlı eseriyle de tanınır."
     }
   ]
 }
