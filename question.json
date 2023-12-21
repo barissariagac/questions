@@ -1,114 +1,64 @@
 {
-    "questions": [
-        {
-            "question": "Osmanlı Devleti hangi tarihte kurulmuştur?",
-            "answers": [
-                "A) 1250",
-                "B) 1299",
-                "C) 1326",
-                "D) 1389"
-            ],
-            "trueAnswer": "B",
-            "info": "Osmanlı Devleti, Osman Gazi tarafından 1299 yılında kurulmuştur. Osmanlı Devleti'nin kuruluşu, Osmanlı tarihinde önemli bir dönem başlangıcını temsil eder."
-        },
-        {
-            "question": "Türk milleti hangi savaşta bağımsızlığını kazanmıştır?",
-            "answers": [
-                "A) Kurtuluş Savaşı",
-                "B) Çanakkale Savaşı",
-                "C) Malazgirt Meydan Muharebesi",
-                "D) Mohaç Meydan Muharebesi"
-            ],
-            "trueAnswer": "A",
-            "info": "Türk milleti, Kurtuluş Savaşı (1919-1922) sonucunda bağımsızlığını kazanmıştır. Bu savaş, Türkiye Cumhuriyeti'nin temellerini atmıştır."
-        },
-        {
-            "question": "Osmanlı Devleti'nin yıkılış tarihi nedir?",
-            "answers": [
-                "A) 1402",
-                "B) 1453",
-                "C) 1571",
-                "D) 1922"
-            ],
-            "trueAnswer": "D",
-            "info": "Osmanlı Devleti'nin yıkılışı, 1922 yılında gerçekleşmiştir. Bu tarih, Türkiye Cumhuriyeti'nin kurulduğu yıl olarak da bilinir."
-        },
-        {
-            "question": "Türkiye'nin en büyük gölü hangisidir?",
-            "answers": [
-                "A) Van Gölü",
-                "B) Tuz Gölü",
-                "C) Beyşehir Gölü",
-                "D) İznik Gölü"
-            ],
-            "trueAnswer": "A",
-            "info": "Türkiye'nin en büyük gölü, yüzölçümü bakımından zengin ve biyolojik çeşitliliği yüksek olan Van Gölü'dür."
-        },
-        {
-            "question": "Mustafa Kemal Atatürk hangi tarihte doğmuştur?",
-            "answers": [
-                "A) 1881",
-                "B) 1882",
-                "C) 1883",
-                "D) 1884"
-            ],
-            "trueAnswer": "B",
-            "info": "Mustafa Kemal Atatürk, 1881 yılında Selanik'te doğmuştur. O, Türkiye Cumhuriyeti'nin kurucusu ve ilk cumhurbaşkanıdır."
-        },
-        {
-            "question": "Türk-İslam Sanatı'nda önemli bir yere sahip olan Selçuklu Devleti hangi tarihler arasında varlık göstermiştir?",
-            "answers": [
-                "A) 900-1200",
-                "B) 1000-1400",
-                "C) 1100-1500",
-                "D) 1200-1600"
-            ],
-            "trueAnswer": "A",
-            "info": "Selçuklu Devleti, 900-1200 yılları arasında varlık göstermiş ve Türk-İslam sanatında önemli eserlere imza atmıştır."
-        },
-        {
-            "question": "Hangi antik kent Ege Bölgesi'nde yer almaktadır?",
-            "answers": [
-                "A) Efes",
-                "B) Hattuşa",
-                "C) Perge",
-                "D) Ani"
-            ],
-            "trueAnswer": "A",
-            "info": "Efes, antik dönemde önemli bir şehir olarak Ege Bölgesi'nde yer almış ve tarihi kalıntılarıyla günümüze ulaşmıştır."
-        },
-        {
-            "question": "Türkiye'nin en kalabalık şehri hangisidir?",
-            "answers": [
-                "A) İstanbul",
-                "B) Ankara",
-                "C) İzmir",
-                "D) Bursa"
-            ],
-            "trueAnswer": "A",
-            "info": "Türkiye'nin en kalabalık şehri, ekonomik ve kültürel açıdan önemli bir merkez olan İstanbul'dur."
-        },
-        {
-            "question": "Hangi savaş sonrasında Lozan Antlaşması imzalanmıştır?",
-            "answers": [
-                "A) Balkan Savaşları",
-                "B) Kurtuluş Savaşı",
-                "C) I. Dünya Savaşı",
-                "D) Çanakkale Savaşı"
-            ],
-            "trueAnswer": "B",
-            "info": "Lozan Antlaşması, Türk Kurtuluş Savaşı'nın ardından 1923 yılında imzalanmış ve Türkiye Cumhuriyeti'nin sınırlarını belirlemiştir."
-        },
-        {
-            "question": "Türkiye'nin en büyük adası hangisidir?",
-            "answers": [
-                "A) Gökçeada",
-                "B) Bozcaada",
-                "C) Marmara Adası",
-                "D) Büyükada"
-            ],
-            "trueAnswer": "A",
-            "info": "Türkiye'nin en büyük adası, Ege Denizi'nde bulunan ve doğal güzellikleriyle ünlü Gökçeada'dır."
-        }
-    ]
+  "questions": [
+    {
+      "question": "Osmanlı Devleti hangi tarihte kurulmuştur?",
+      "options": {
+        "A": "1250",
+        "B": "1299",
+        "C": "1326",
+        "D": "1389",
+        "E": "1453"
+      },
+      "correctAnswer": "B",
+      "explanation": "Osmanlı Devleti, Osman Gazi tarafından 1299 yılında kurulmuştur. Osmanlı Devleti'nin kuruluşu, Osmanlı tarihinde önemli bir dönem başlangıcını temsil eder."
+    },
+    {
+      "question": "Türk milleti hangi savaşta bağımsızlığını kazanmıştır?",
+      "options": {
+        "A": "Kurtuluş Savaşı",
+        "B": "Çanakkale Savaşı",
+        "C": "Malazgirt Meydan Muharebesi",
+        "D": "Mohaç Meydan Muharebesi",
+        "E": "Sakarya Meydan Muharebesi"
+      },
+      "correctAnswer": "A",
+      "explanation": "Türk milleti, Kurtuluş Savaşı (1919-1922) sonucunda bağımsızlığını kazanmıştır. Bu savaş, Türkiye Cumhuriyeti'nin temellerini atmıştır."
+    },
+    {
+      "question": "Osmanlı Devleti'nin yıkılış tarihi nedir?",
+      "options": {
+        "A": "1402",
+        "B": "1453",
+        "C": "1571",
+        "D": "1922",
+        "E": "1683"
+      },
+      "correctAnswer": "D",
+      "explanation": "Osmanlı Devleti'nin yıkılışı, 1922 yılında gerçekleşmiştir. Bu tarih, Türkiye Cumhuriyeti'nin kurulduğu yıl olarak da bilinir."
+    },
+    {
+      "question": "Türkiye'nin en büyük gölü hangisidir?",
+      "options": {
+        "A": "Van Gölü",
+        "B": "Tuz Gölü",
+        "C": "Beyşehir Gölü",
+        "D": "İznik Gölü",
+        "E": "Gölcük Gölü"
+      },
+      "correctAnswer": "A",
+      "explanation": "Türkiye'nin en büyük gölü, yüzölçümü bakımından zengin ve biyolojik çeşitliliği yüksek olan Van Gölü'dür."
+    },
+    {
+      "question": "Mustafa Kemal Atatürk hangi tarihte doğmuştur?",
+      "options": {
+        "A": "1881",
+        "B": "1882",
+        "C": "1883",
+        "D": "1884",
+        "E": "1885"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mustafa Kemal Atatürk, 1881 yılında Selanik'te doğmuştur. O, Türkiye Cumhuriyeti'nin kurucusu ve ilk cumhurbaşkanıdır."
+    }
+  ]
 }
