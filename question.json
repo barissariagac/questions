@@ -119,6 +119,54 @@
       },
       "correctAnswer": "E",
       "explanation": "Moğol hükümdarı Cengiz Han'ın soyundan gelen Babür, Hindistan'da Babür İmparatorluğu'nu kurmuştur. Babür, aynı zamanda Babürname adlı eseriyle de tanınır."
-    }
+    },
+    {
+    "question": "Hangi padişah döneminde \"Rumeli Beylerbeyliği\" unvanı ilk kez kullanılmıştır?",
+    "options": {
+      "A": "I. Murad",
+      "B": "I. Bayezid",
+      "C": "II. Murad",
+      "D": "II. Bayezid",
+      "E": "III. Murad"
+    },
+    "correctAnswer": "C",
+    "explanation": "Rumeli Beylerbeyliği unvanı ilk kez II. Murad döneminde kullanılmıştır. II. Murad, 1453 yılında İstanbul'u fethettikten sonra Anadolu'dan Rumeli'ye geçen Türkmenleri bir araya toplamak ve bu bölgedeki idari düzeni sağlamak amacıyla Rumeli Beylerbeyliği'ni kurmuştur."
+  },
+  {
+    "question": "\"Tanzimat Fermanı\"nın temel amacı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Devletin gücünü artırmak",
+      "B": "Halkın refahını yükseltmek",
+      "C": "Avrupa ile ilişkileri geliştirmek",
+      "D": "Osmanlı Devleti'ni çağdaşlaştırmak",
+      "E": "Devletin otoritesini güçlendirmek"
+    },
+    "correctAnswer": "E",
+    "explanation": "Tanzimat Fermanı, Osmanlı Devleti'nin 19. yüzyılda yaşadığı reform hareketlerinden biridir. Bu ferman ile birlikte Osmanlı Devleti'nde modernleşme ve yenileşme hareketleri hız kazanmıştır. Tanzimat Fermanı'nın temel amacı, Osmanlı Devleti'nin otoritesini güçlendirmek ve devleti modernleştirmektir."
+  },
+  {
+    "question": "\"İttihat ve Terakki Cemiyeti\"nin kuruluş amacı aşağıdakilerden hangisidir?",
+    "options": {
+      "A": "Osmanlı Devleti'ni kurtarmak",
+      "B": "Türk milliyetçiliğini yaymak",
+      "C": "Osmanlı Devleti'ni demokratikleştirmek",
+      "D": "Osmanlı Devleti'ni laikleştirmek",
+      "E": "Osmanlı Devleti'ni sosyalistleştirmek"
+    },
+    "correctAnswer": "A",
+    "explanation": "İttihat ve Terakki Cemiyeti, 1908 yılında Osmanlı Devleti'nin içinde bulunduğu krizi fırsat bilerek kurulmuştur. Cemiyetin temel amacı, Osmanlı Devleti'ni kurtarmak ve bu devleti güçlü bir imparatorluk haline getirmektir."
+  },
+  {
+    "question": "\"Atatürk İlkeleri\"nin temelinde aşağıdakilerden hangisi yer almaktadır?",
+    "options": {
+      "A": "Milliyetçilik",
+      "B": "Halkçılık",
+      "C": "Laiklik",
+      "D": "Cumhuriyetçilik",
+      "E": "İnkılapçılık"
+    },
+    "correctAnswer": "A",
+    "explanation": "Atatürk İlkeleri, Türkiye Cumhuriyeti'nin temelini oluşturan ve Atatürk tarafından benimsenen ilkelerdir. Bu ilkeler, milliyetçilik, halkçılık, laiklik, cumhuriyetçilik ve inkılapçılık olarak sıralanabilir. Atatürk İlkeleri'nin temelinde milliyetçilik ilkesi yer almaktadır."
+  }
   ]
 }
