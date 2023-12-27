@@ -2,8 +2,8 @@
     "exams": [
         {
             "examName": "YÖKDİL",
-            "from": "2024-02-25",
-            "to": "2024-03-24",
+            "from": "2024-02-24",
+            "to": "2024-02-24",
             "background": "131cab",
             "isAllDay": false,
             "description": "Yükseköğretim Kurumları Yabancı Dil Sınavı",
